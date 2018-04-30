@@ -1,0 +1,2 @@
+1	delhi	10	5	5	10
+2 	bangalore	12	4	8	8
